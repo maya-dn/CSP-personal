@@ -7,7 +7,7 @@ url: "https://debuggers-csp.github.io"
 baseurl: "/CSP-team" 
 future: true
 
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: jekyll-theme-minima
 
 minima:
   skin: dark
