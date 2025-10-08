@@ -1,10 +1,10 @@
 ---
 layout: default
-title: We are Debuggers
+title: Maya's repo
 hide: true
 ---
 
-Hi! We are the Debuggers
+Hi! This is Maya's repository.
 
 ## Three systems
 <a href="{{ site.baseurl }}/three-system" style="display:inline-block;background-color:#0084ff;color:black;padding:10px 20px;border-radius:5px;font-weight:bold;text-decoration:none;">Three Systems</a>
