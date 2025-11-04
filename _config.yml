@@ -1,10 +1,10 @@
-title: Hi! we are the Debuggers
+title: Hi! I am Maya
 description: CSP 2025-2026
-owner_name: John Mortensen
-github_username: jm1021 
+owner_name: Maya Drukin
+github_username: maya-dn 
 github_repo: "CSP-team" 
-url: "https://debuggers-csp.github.io"
-baseurl: "/CSP-team" 
+url: "https://CSP-personal"
+baseurl: "/CSP-personal" 
 future: true
 
 remote_theme: jekyll-theme-minima
