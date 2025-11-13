@@ -7,7 +7,7 @@ url: "CSP-personal"
 baseurl: "/CSP-personal" 
 future: true
 
-remote_theme: jekyll-theme-minima
+remote_theme: jekyll-theme-cayman
 
 minima:
   skin: dark
