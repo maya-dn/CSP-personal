@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Escape the Basement Game</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            background: #1a1a1a;
+            color: white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        #start-btn {
+            padding: 20px 40px;
+            font-size: 20px;
+            background: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+        }
+        #start-btn:hover {
+            background: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <button id="start-btn">Start Laundry Minigame</button>
+
+    <!-- Include the minigame script -->
+    <script src="laundry_minigame.js"></script>
+    
+    <script>
+        // Trigger the minigame when button is clicked
+        document.getElementById('start-btn').addEventListener('click', function() {
+            showLaundryMinigame(() => {
+                console.log('Minigame completed!');
+                alert('You found the code: 4-7-2-9!');
+                // Add your game logic here
+            });
+        });
+    </script>
+</body>
+</html>
