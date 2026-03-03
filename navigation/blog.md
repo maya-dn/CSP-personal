@@ -5,9 +5,7 @@ search_exclude: true
 permalink: /blogs/
 ---
 
-# Maya's CSP Adventures
-
-Trimester 2 Multiple Choice reflection.
+# Trimester 2 Multiple Choice reflection.
 
 ## MCQ 
 
