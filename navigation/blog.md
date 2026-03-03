@@ -7,78 +7,68 @@ permalink: /blogs/
 
 # Maya's CSP Adventures
 
-Throughout the first trimester of Computer Science Principles, I learnen about many different and varying aspects of coding and computer science. 
+Trimester 2 Multiple Choice reflection.
 
-## Sprint 1: Tools and Equipment
+## MCQ 
 
-In sprint one, I struggled a lot to keep up and configure my tools, as I was working with an extremely old and slow chromebook. It took me several weeks of trial and error to figure out my repositories, accounts, and coding. I was pretty quiet and didn't speak up or ask for help much because I didn't feel as though I was going to be able to suceed in this class.
+ 6. I didn't look carefully enough at each movement that the program had the robot do and therefore didn't take into account that both complete the same goal.
 
-Our first real project was to create the tool setup game. My team's design for our tool setup game was a western adventure RPG-style MCQ. We created three different sections in our repository, those which encompass all the types such as Mac, Windows, and Kasm. I was in charge of Kasm because I was most familiar with it at the time. Now I am most familiar with Windows. 
+ 9. Creative Commons licenses has nothing to do with privacy but rather legal use of content from other individuals. 
 
-After the tools setup game quest, My initial team moved onto working on hacks created by CSA students. Cyrus and I worked on two hacks, those being Pong and Rock Paper Scissors. These games gave us trouble because they were extremely involved and took quite a while to digest the instructions and execute them. Throughout this process, I became very familiar to using tools, like AI, to assist in my coding process. 
+ 11. Counted the binary numbers incorrectly for the last digit
 
-## Sprint 2: Big Idea #3
+ 12. I again miscalculated the value of the binary number which led to me getting the incorrect answer.
 
-During Big Idea 3, our entire class came together and worked on videos and creating lessons in order to guide each other through the coding process. We learned about basics such as boolean variables, strings, algorithmic efficiency, and other tools in coding that help our code run. I was in charge of the mathematical expressions lesson, where I taught about the different mathematical symbols and operations, as well as how to use and evaluate them. I was the first to present and was able to take that lead and do so because I started to feel more confident in my knowledge. 
+ 15. I thought that because there was an inequality there, that it'd stop when it reached 10 and the other would go till 11 because of the lack of equal to sign.
 
-During the other presentations, I gathered coding knowledge through the hacks created by the other teams and completed them all to the best of my ability. I found the hacks really fun and educational, and I liked how we were able to spread knowledge to each other.
+ 16. The loop begins at the end and moves to the start, so the index should be decremented, and inserting between lines 7-8 will allow for all elements to be checked.
 
-## Sprint 3: Digital Famine
+ 17. All digital data is represented with sequences of bits, even complicated algorithms.
 
-Digital Famine was our big project for Night at the Museum. My team and I were responsible for doing the homepage and the end module. I worked on creating sprites as well as team management throughout the rest of the teams, and occasional coding here and there, such as creating the inspiration for submodule three. I would talk to all the other planet teams and coordinate the different things we had to achieve together. This is when I began to branch out and feel comfortable with being in CSP, and felt like people were here to back me and I was there for them. 
+ 18. The algorithm I chose will move the robot off the grid.
 
-Digital famine was a great learning experience in terms of team organization, as well as coding and technical skills. I learned a lot about different files and where they should be placed in. 
+ 20. The data moved in accordance with the rising users therefore it is about 10GB per user.
 
-## MCQ
+ 21. Only 59% are 100 KB or greater, not 75%.
 
-Questions:
+ 22. The algorithm I chose reverses the probabilities of each outcome.
 
-[14] Misunderstood the prompt and didn't read the questions properly.
+ 25. The internet is not controlled from a central device.
 
-[21] I didn't realize turning right meant turning clockwise and assumed that it would only have to turn once.
+ 33. You actually can compare this data by looking at the dropped score.
 
-[22] This one was tricky for me, I wasn't sure where the *0.5 came from and what it meant. 
+ 36. Less time to run is stil a benefit regardless if SOME accuracy is lost.
 
-[26] The option I selected is wrong because it will only let the robot turn right after the loop, but the robot must turn right each time. A is correct because it enables the robot to turn each time and therefore get to the grey box. 
+ 38. IPv6 allows for more addresses than IPv4. The length of the address has no effects of routing speeds.
 
-[27] Putting the code between lines 9 and 10 will allow for the code to not be terminated upon its execution.
+ 39. Answer choice selected simply terminates the program once it reaches 10. Instead, we want it to first find the new sum before moving up to the next number for i.
 
-[28] This was an unfamiliar topic to me completely. I guess binary is 2^n, n being the number of bits needed, therefore for two hundred, we need 8 because any less won't get you to 200. 
+ 40. Web domain names are translated into IP addresses using the domain name system. Certificate authorities  verify the encryption used for secure communication.
 
-[30] Assumtion is wrong because It assumes that analysis is called just once, when it could be called up to five times due to the different genres.
+ 41. III works in a similar but different way from I. 
 
-[31] Both programs can theoretically move the robot to the grey square. 
+ 46. All devices are assigned IP addresses as soon as they connect to the internet.
 
-[33] I misread the question and answered less than when it was greater than even though I meant greater than. 
+ 47. Binary searches will work on any lists regardless of duplicates. Instead, the list must be in sorted order.
 
-[36] I wasn't sure about what to call this type of error  but it is because the precision is limited. 
+ 48. Phishing is people get messages online from scammers which request personal information.
 
-[37] Both code accomplish the same task, just code one will take the average more often since its in the loop therefore it will have more arithmetic.
+ 54. The current code segment will cause even elements from oldList to appear at the start of newList which will make the list appear in reverse. We want to append it to make sure it doesn't.
 
-[40] average can be calculated from two data points. Average increase can be calculated from the data points as well. The proportion is one half, because one of the two kids got their scores improved, therefore it's D. 
+ 57. Internet communication is not completely secure. Instead, they establish a common standard for messaging.
 
-[42] Again, I didn't understand what bits are but now I know it's 2^n, therefore since 128-32=96, then it would be 2^96.
+ 58. The correct answer choice faulties by making sure that x doesn't equal y, and y doesn't equal z, but x = z, leaving a mishap.
 
-[43] Since the algorithm is a polynomial, then it will run in a reasonable time. 
+ 59. Original developers must continue to update their games rather than the public being able to update without them.
 
-[44] Only 10+7 will cause an overflow error. Since it is four bits, then only up to 15 can be represented. Therefore, since 17>15, it will overflow.
+ 60. The correct answer choice makes sure to rid duplicates multiple times and counts the numbers in both lists by taking the orginal combined list and subtracting all non-duplicates.
 
-[45] This will evaluate to false when both are different numbers. Putting them together will allow for them to evaluate to true and therefore false.
+ 61. Limiting web accesss will not provide equality of access to technology. Taking into account physical traits will, however.
 
-[46] An algorithm is limited in what it can solve, so it isn't possible for all programs and inputs.
+ 64. The program gets confused when y is negative, not x.
 
-[50] I didn't know what a binary vs linear search was. A linear search checks each item individually until what was being looked for is found, while a binary search divides the interval in half, checking the halfway point, and continues to do so until target is found.
+ 65. The answer choice selected will confuse it for "lopajacka".
 
-[55] The procedure cannot equal both y and yes therefore it always evaluates to false.
+ 66. ```count``` should only increase if currentNum is a perfect number.
 
-[57] I got confused because I thought indexes start at 0.
-
-[58] Crowdsourcing helps people access the internet, rather than solve computational problems. 
-
-[60] I was on the fence about this one but a call to procedure will shorten the program because it will enable for several lines of code to be removed.
-
-[61] They can only use the data that both students have in common to compare the two.
-
-[64] Cloud computing causes data-security concerns because of how everyone can access each other.
-
-[66] The program will recall the first number that it finds which is smaller than another number, this may not necessarily be the smallest number of the sequence, however. 
+ 67. Oak is the only variable that works because it is the final variable. Spruce will not work because it will not appear in the list and therefore will not increase the count. 
