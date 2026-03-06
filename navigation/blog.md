@@ -7,6 +7,8 @@ permalink: /blogs/
 
 # Trimester 2 Multiple Choice reflection.
 
+[Collegeboard MCQ Score] ({{ site.baseurl }}/images/CB-score-2020-tri2.png)
+
 ## MCQ 
 
  6. I didn't look carefully enough at each movement that the program had the robot do and therefore didn't take into account that both complete the same goal.
