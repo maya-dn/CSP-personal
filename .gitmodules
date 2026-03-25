@@ -1,3 +1,15 @@
 [submodule "CSP-team"]
   path = CSP-team
-  url = https://github.com/Debuggers-CSP/CSP-team.git  # Replace with the correct URL
+  url = https://github.com/Debuggers-CSP/CSP-team.git
+
+[submodule "pages"]
+  path = pages
+  url = https://github.com/Open-Coding-Society/pages.git
+
+[submodule "Maya-Flask"]
+  path = Maya-Flask
+  url = https://github.com/maya-dn/Maya-Flask.git
+
+[submodule "WC-BE"]
+  path = WC-BE
+  url = https://github.com/EvanSvetina/WC-BE.git

@@ -116,3 +116,7 @@ minima:
     - navigation/search.md
     - navigation/about.md
     - navigation/logintoolkit.md
+
+exclude:
+  - Maya-Flask
+  - WC-BE
